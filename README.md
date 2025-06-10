@@ -1,6 +1,6 @@
 # Timber-GIR-Pullout-Prediction-Using-ANN-and-GEP
 
-This repository contains the source code, dataset, and simulation results used in the study: “Prediction of pull-out behavior of timber glued-in glass fiber reinforced polymer and steel rods under various environmental conditions based on ANN and GEP models.”
+This repository contains the source code, dataset, and simulation results used in the study: “Explainable XGBoost machine learning model for prediction of ultimate load and free end slip of GFRP rod glued-in timber joints through a pull-out test under various harsh environmental conditions.”
 
 # **Overview**
 
